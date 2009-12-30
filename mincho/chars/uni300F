@@ -1,0 +1,21 @@
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+553 -146 m 25
+ 135 -146 l 25
+ 135 54 l 25
+ 353 54 l 25
+ 353 524 l 25
+ 553 524 l 25
+ 553 -146 l 25
+503 -96 m 25
+ 503 474 l 25
+ 403 474 l 25
+ 403 4 l 17
+ 187 4 l 9
+ 187 -96 l 25
+ 503 -96 l 25
+EndSplineSet
+EndChar

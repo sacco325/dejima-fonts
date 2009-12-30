@@ -1,0 +1,12 @@
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+180 423 m 1
+ 813 423 l 1
+ 813 345 l 1
+ 180 345 l 1
+ 180 423 l 1
+EndSplineSet
+EndChar

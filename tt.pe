@@ -1,0 +1,11 @@
+#! /usr/bin/fontforge
+
+Open("mincho/dejima-mincho.sfd")
+MergeFonts("tsukiji/3/dejima-tsu3.sfd")
+MergeFonts("tsukiji/4/dejima-tsu4.sfd")
+SelectAll()
+RemoveOverlap()
+SelectAll()
+AutoHint()
+MergeFonts("sazanami-mincho.ttf")
+Generate("dejima-mincho.ttf")
