@@ -1,10 +1,9 @@
-StartChar: uni4E16
-Encoding: 19990 19990 228
 Width: 1000
 Flags: H
 TeX: 117 0
 LayerCount: 2
 Fore
+SplineSet
 249 -51 m 25
  750 -51 l 25
  779 -23 788 9 813 18 c 1
