@@ -1,0 +1,4 @@
+syntax: glob
+*~
+mincho/dejima-mincho.sfd
+tsukiji/3/*
